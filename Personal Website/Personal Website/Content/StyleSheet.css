@@ -1,0 +1,13 @@
+﻿body {
+    background-color:grey;
+}
+
+#jumbotron{
+    background-color:cadetblue;
+
+}
+
+#Image{
+    display: inline-block;
+    height: 200px;
+}
